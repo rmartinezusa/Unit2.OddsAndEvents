@@ -9,3 +9,13 @@ output {
   border: 1px solid black;
   border-radius: 3px;
 }
+
+output {
+  display: flex;
+  flex-direction: row;
+  gap: 1ch;
+}
+
+p {
+  margin: 0px;
+}
